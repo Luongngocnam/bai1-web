@@ -1,0 +1,6 @@
+E:\file test\MultiPlatformInterestApp\CompoundInterestDLL\bin\Debug\CompoundInterestDLL.dll
+E:\file test\MultiPlatformInterestApp\CompoundInterestDLL\bin\Debug\CompoundInterestDLL.pdb
+E:\file test\MultiPlatformInterestApp\CompoundInterestDLL\obj\Debug\CompoundInterestDLL.csproj.AssemblyReference.cache
+E:\file test\MultiPlatformInterestApp\CompoundInterestDLL\obj\Debug\CompoundInterestDLL.csproj.CoreCompileInputs.cache
+E:\file test\MultiPlatformInterestApp\CompoundInterestDLL\obj\Debug\CompoundInterestDLL.dll
+E:\file test\MultiPlatformInterestApp\CompoundInterestDLL\obj\Debug\CompoundInterestDLL.pdb
