@@ -1,0 +1,9 @@
+E:\file test\MultiPlatformInterestApp\InterestConsoleApp\bin\Debug\InterestConsoleApp.exe
+E:\file test\MultiPlatformInterestApp\InterestConsoleApp\bin\Debug\InterestConsoleApp.pdb
+E:\file test\MultiPlatformInterestApp\InterestConsoleApp\bin\Debug\CompoundInterestDLL.dll
+E:\file test\MultiPlatformInterestApp\InterestConsoleApp\bin\Debug\CompoundInterestDLL.pdb
+E:\file test\MultiPlatformInterestApp\InterestConsoleApp\obj\Debug\InterestConsoleApp.csproj.AssemblyReference.cache
+E:\file test\MultiPlatformInterestApp\InterestConsoleApp\obj\Debug\InterestConsoleApp.csproj.CoreCompileInputs.cache
+E:\file test\MultiPlatformInterestApp\InterestConsoleApp\obj\Debug\Interest.80833D80.Up2Date
+E:\file test\MultiPlatformInterestApp\InterestConsoleApp\obj\Debug\InterestConsoleApp.exe
+E:\file test\MultiPlatformInterestApp\InterestConsoleApp\obj\Debug\InterestConsoleApp.pdb

@@ -1,0 +1,10 @@
+E:\file test\MultiPlatformInterestApp\InterestWebApp\bin\InterestWebApp.dll.config
+E:\file test\MultiPlatformInterestApp\InterestWebApp\bin\InterestWebApp.dll
+E:\file test\MultiPlatformInterestApp\InterestWebApp\bin\InterestWebApp.pdb
+E:\file test\MultiPlatformInterestApp\InterestWebApp\bin\CompoundInterestDLL.dll
+E:\file test\MultiPlatformInterestApp\InterestWebApp\bin\CompoundInterestDLL.pdb
+E:\file test\MultiPlatformInterestApp\InterestWebApp\obj\Debug\InterestWebApp.csproj.AssemblyReference.cache
+E:\file test\MultiPlatformInterestApp\InterestWebApp\obj\Debug\InterestWebApp.csproj.CoreCompileInputs.cache
+E:\file test\MultiPlatformInterestApp\InterestWebApp\obj\Debug\Interest.5A838A0A.Up2Date
+E:\file test\MultiPlatformInterestApp\InterestWebApp\obj\Debug\InterestWebApp.dll
+E:\file test\MultiPlatformInterestApp\InterestWebApp\obj\Debug\InterestWebApp.pdb

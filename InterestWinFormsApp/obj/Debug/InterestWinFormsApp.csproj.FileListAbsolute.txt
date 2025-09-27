@@ -1,0 +1,12 @@
+E:\file test\MultiPlatformInterestApp\InterestWinFormsApp\bin\Debug\InterestWinFormsApp.exe
+E:\file test\MultiPlatformInterestApp\InterestWinFormsApp\bin\Debug\InterestWinFormsApp.pdb
+E:\file test\MultiPlatformInterestApp\InterestWinFormsApp\bin\Debug\CompoundInterestDLL.dll
+E:\file test\MultiPlatformInterestApp\InterestWinFormsApp\bin\Debug\CompoundInterestDLL.pdb
+E:\file test\MultiPlatformInterestApp\InterestWinFormsApp\obj\Debug\InterestWinFormsApp.csproj.AssemblyReference.cache
+E:\file test\MultiPlatformInterestApp\InterestWinFormsApp\obj\Debug\InterestWinFormsApp.Form1.resources
+E:\file test\MultiPlatformInterestApp\InterestWinFormsApp\obj\Debug\InterestWinFormsApp.Properties.Resources.resources
+E:\file test\MultiPlatformInterestApp\InterestWinFormsApp\obj\Debug\InterestWinFormsApp.csproj.GenerateResource.cache
+E:\file test\MultiPlatformInterestApp\InterestWinFormsApp\obj\Debug\InterestWinFormsApp.csproj.CoreCompileInputs.cache
+E:\file test\MultiPlatformInterestApp\InterestWinFormsApp\obj\Debug\Interest.7C7F2CF7.Up2Date
+E:\file test\MultiPlatformInterestApp\InterestWinFormsApp\obj\Debug\InterestWinFormsApp.exe
+E:\file test\MultiPlatformInterestApp\InterestWinFormsApp\obj\Debug\InterestWinFormsApp.pdb
